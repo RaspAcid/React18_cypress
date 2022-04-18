@@ -6,7 +6,7 @@ exports[`renders greeting correctly 1`] = `
 >
   <p>
     Good 
-    afternoon
+    evening
     !
   </p>
 </div>
