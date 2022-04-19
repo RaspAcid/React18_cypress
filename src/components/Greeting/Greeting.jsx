@@ -16,7 +16,7 @@ export const Greeting = () => {
   }}
 
   return (
-    <div className="App">
+    <div id="greeting">
       <p>Good {daytime()}!</p>
     </div>
   );
